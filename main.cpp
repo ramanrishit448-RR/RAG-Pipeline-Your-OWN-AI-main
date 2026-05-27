@@ -17,7 +17,7 @@
 #include <climits>
 
 static const int DIMS = 16;   // demo vectors
-// Doc embeddings dimension is determined at 
+// Doc embeddings dimension is determined at runtime from Ollama's model output
 
 // =====================================================================
 //  DATA TYPES
